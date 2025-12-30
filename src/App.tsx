@@ -3,7 +3,7 @@ import './style.css';
 const App = () => {
   return (
     <div className="background">
-      background
+      {/* background */}
       <div className="body">
         <div className="leftside">
           <div className='photoblock'></div>
@@ -22,7 +22,7 @@ const App = () => {
             <li>Языки программирования: JavaScript, TypeScript</li>
             <li>Backend: Node.js, Express</li>
             <li>Frontend: React</li>
-            <li>Базы данных: PostgreSQL</li>
+            <li>Базы данных: PostgreSQL, SQLite</li>
             <li>Инструменты и технологии: Git, GitHub, npm</li>
           </ul>
           <h4>Мои контакты:</h4>
